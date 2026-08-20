@@ -4,7 +4,7 @@
 
 I'm a B.Tech graduate passionate about software development, web technologies, and problem solving. I enjoy building projects, learning new technologies, and improving my coding and development skills.
 
-Currently, I'm focused on strengthening my skills in **Java, JavaScript, React.js, SQL, Data Structures & Algorithms, and full-stack web development.
+Currently, I'm focused on strengthening my skills in Java, JavaScript, React.js, SQL, Data Structures & Algorithms, and full-stack web development.
 
 ---
 
@@ -89,8 +89,6 @@ I'm building different React.js projects to improve my understanding of:
 ---
 
 📚 Currently Learning
-
-```text
 Java
  ├── OOP
  ├── Collections
